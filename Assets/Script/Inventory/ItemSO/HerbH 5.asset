@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04093402b2cd52b429dfc8b2102dc06a, type: 3}
+  m_Name: HerbH 5
+  m_EditorClassIdentifier: 
+  Name: herb
+  sprite:
+  - {fileID: 21300000, guid: 8b14bec7b3cf7794594f8e9feab57b46, type: 3}
+  - {fileID: 21300000, guid: 8078a2c95a87d2843b6b6c1832e93873, type: 3}
+  - {fileID: 21300000, guid: 7f5724a2212d44942985a00602a03e28, type: 3}
+  herbalistLevel: 5
+  healAmount: 45

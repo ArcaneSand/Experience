@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: addfe6ede3d690244841704fa35f811d, type: 3}
+  m_Name: Spider
+  m_EditorClassIdentifier: 
+  Name: Spider
+  maxHp: 55
+  Atk: 30
+  combatLv: 5
+  image: {fileID: 21300000, guid: b989f84f099e57a468c129c23b8d65e2, type: 3}
+  tip: could it make me be ... spiderman?
